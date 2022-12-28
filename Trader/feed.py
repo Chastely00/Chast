@@ -3,6 +3,7 @@ import pandas as pd
 from typing import Union
 import datetime
 import numpy as np
+import vectorbt as vbt
 
 def get_from_mongo(elements: list, symbols: list=[], db:str='Fields',
     start: Union[datetime.datetime, None]=None, 

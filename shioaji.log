@@ -1,0 +1,2 @@
+[E 2022-12-02 10:51:31,518 c:\Users\ChastLai\anaconda3\lib\site-packages\shioaji\utils.py:46:raise_resp_error] {'status': {'status_code': 500}, 'response': {'detail': 'Internal Server Error'}}
+[E 2022-12-02 10:51:49,359 c:\Users\ChastLai\anaconda3\lib\site-packages\shioaji\utils.py:46:raise_resp_error] {'status': {'status_code': 500}, 'response': {'detail': 'Internal Server Error'}}
